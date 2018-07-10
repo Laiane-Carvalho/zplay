@@ -10,7 +10,7 @@ import butterknife.OnClick;
 import zup.com.br.zplay.R;
 
 /**
- * Autor Wellton
+ * Autor Wellton e Laiane
  */
 public class DetailsMovieActivity extends SupportActivity {
 
