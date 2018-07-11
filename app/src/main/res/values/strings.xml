@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">zPlay Movie</string>
+
+    <string name="facebook_app_id">206104496717578</string>
+    <string name="fb_login_protocol_scheme">fb206104496717578</string>
+
 </resources>

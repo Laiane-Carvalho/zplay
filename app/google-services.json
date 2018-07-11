@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34439080496",
+    "firebase_url": "https://zplay-bc6cf.firebaseio.com",
+    "project_id": "zplay-bc6cf",
+    "storage_bucket": "zplay-bc6cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34439080496:android:153d0f0f2a87b963",
+        "android_client_info": {
+          "package_name": "zup.com.br.zplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34439080496-cld90f600k7a7lgsmk9vg72gkt8kel9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zup.com.br.zplay",
+            "certificate_hash": "c691ffc2021de7ab3469a0148eb688730981840b"
+          }
+        },
+        {
+          "client_id": "34439080496-9n2j7qe6a37sb9q36ev55d1dqfs1tj5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaibG3FpZCbpWfBxt2egVuRa_GZuOtug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34439080496-9n2j7qe6a37sb9q36ev55d1dqfs1tj5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
